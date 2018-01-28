@@ -379,7 +379,7 @@ h4.tittle  {
 .modal-body {
     position: relative;
     padding: 20px;
-    text-align: center;
+    text-align: left;
 }
 /*-- about-us --*/
 span.border {
